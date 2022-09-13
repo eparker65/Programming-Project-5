@@ -22,7 +22,7 @@ public class Driver {
         Austin.addGrade();
         Elijah.addGrade();
         MisterPickle.addGrade();
-        Austin.average();
+        
         
         
         
